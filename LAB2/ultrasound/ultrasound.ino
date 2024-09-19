@@ -1,5 +1,5 @@
-#define TRIG_PIN 12  // Trigger pin for HC-SR04
-#define ECHO_PIN 13  // Echo pin for HC-SR04
+#define TRIG_PIN 41  // Trigger pin for HC-SR04
+#define ECHO_PIN 42  // Echo pin for HC-SR04
 
 // Variables for calibration
 float calibration_factor = 1.05;  // Adjust this factor based on real-world measurements
