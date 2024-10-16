@@ -1,0 +1,5 @@
+Account: menjiying@gmail.com
+password: Hidejy666
+user UID:GoWOisA4TPfWdWvSqvzwZsURJe53
+Web API key:AIzaSyB2ivesHz3wQM1cdIfNyAr2Sx3m-33Dopg
+Database URL:https://ee4216-project-default-rtdb.asia-southeast1.firebasedatabase.app/
